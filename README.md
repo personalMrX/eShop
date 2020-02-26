@@ -6,5 +6,4 @@
 
 Экран входа  
 
-</br>
 ![](https://github.com/personalMrX/eShop/blob/master/Screen2.png)
